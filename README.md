@@ -93,11 +93,11 @@ Conclusion: Multilingual bias is dimension-specific, not universal. Developers c
 
 # Important Notes
 
-# Tool Version
+# Tools
 
-- Tested with: GitHub Copilot (November 2024 version)  
-- IDE: Visual Studio Code 1.85+  
-- Language: Python 3.8+
+- Tested with: GitHub Copilot 
+- IDE: Visual Studio Code   
+- Language: Python 
 
 # Reproducibility
 
