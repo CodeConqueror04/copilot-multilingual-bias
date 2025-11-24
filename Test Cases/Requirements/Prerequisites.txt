@@ -2,11 +2,12 @@
 
 ### Software Requirements
 - Visual Studio Code-- version 1.85 or higher
-- GitHub Copilot    -- subscription (Individual, Business, or Enterprise)
+- GitHub Copilot    -- free tier, GPT-5-mini model
 - Python            -- 3.8 or higher
 - Git(for cloning repository)
 
 ### Account Setup
-1. Ensure you have an active GitHub Copilot subscription
+1. Ensure you have an active GitHub Copilot 
 2. Install GitHub Copilot extension in VS Code
+
 3. Sign in to GitHub account in VS Code
